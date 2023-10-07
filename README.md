@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="shiroe20" /> </p>
 
-- 📫 How to reach me **johnrenzbade@gmail.com**
+- 📫 How to reach me **johnrenzbade@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
