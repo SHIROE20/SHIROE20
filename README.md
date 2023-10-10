@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Renz Bade</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate frontend web developer from Philippines</h3>
 
 <p align="left"> <img src="
 
